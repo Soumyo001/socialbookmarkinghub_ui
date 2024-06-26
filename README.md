@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+UI idea was found from this link : https://dribbble.com/shots/24289937-Stacklist-mobile-app
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
